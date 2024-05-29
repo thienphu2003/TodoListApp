@@ -170,7 +170,6 @@ fun MainPage() {
                         containerColor = MaterialTheme.colorScheme.primary
                     ),
                     shape = RoundedCornerShape(0.dp),
-
                     ) {
                     Row(
                         modifier = Modifier
