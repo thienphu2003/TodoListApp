@@ -129,7 +129,7 @@ fun MainPage() {
                     .border(1.dp, Color.Black, RoundedCornerShape(5.dp))
                     .weight(7F)
                     .height(60.dp),
-                textStyle = TextStyle(textAlign = TextAlign.Center),
+                textStyle = TextStyle(textAlign = TextAlign.Center, fontSize = 20.sp),
 
                 )
             Spacer(modifier = Modifier.width(5.dp))
